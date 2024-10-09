@@ -1,0 +1,19 @@
+<svg width="109" height="39" viewBox="0 0 109 39" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Triangle 1" clip-path="url(#clip0_662_672)">
+<path id="Vector" d="M75.24 38.39L0 0H108.66L75.25 38.39H75.24ZM10.48 2.52L74.63 35.25L103.12 2.52H10.48Z" fill="url(#paint0_linear_662_672)"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear_662_672" x1="71.8439" y1="-0.649878" x2="66.2337" y2="30.5943" gradientUnits="userSpaceOnUse">
+<stop stop-color="#47B35D"/>
+<stop offset="0.05" stop-color="#47B35D"/>
+<stop offset="0.23" stop-color="#47B35D"/>
+<stop offset="0.41" stop-color="#80ED99"/>
+<stop offset="0.6" stop-color="#80ED99"/>
+<stop offset="0.79" stop-color="#80ED99"/>
+<stop offset="1" stop-color="#80ED99"/>
+</linearGradient>
+<clipPath id="clip0_662_672">
+<rect width="108.66" height="38.39" fill="white"/>
+</clipPath>
+</defs>
+</svg>
